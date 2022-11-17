@@ -1,0 +1,3 @@
+
+New line from test.txt - test text
+ and The resultant is: first textThe result is - first text
